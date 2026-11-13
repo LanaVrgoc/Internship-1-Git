@@ -1,10 +1,6 @@
 Lana ima 0 pobjeda i 0 poraza!
 Marina ima 0 pobjeda i 0 poraza!
 
-<<<<<<< HEAD
-. O .
-=======
 . . X
->>>>>>> origin/main
 X O .
 O X .
