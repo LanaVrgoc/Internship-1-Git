@@ -3,4 +3,4 @@ Marina ima 0 pobjeda i 1 poraza!
 
 O . X
 X X O
-O X .
+O X O
